@@ -17,8 +17,6 @@ Este repositório representa o **back-end da aplicação ToDoList**, uma API sim
 
 ---
 
-## 📁 Estrutura de Arquivos
-
 `🧠 Objetivo`
 Este back-end foi construído com fins educacionais, servindo como base para treinar consumo de APIs REST em projetos front-end.
 
